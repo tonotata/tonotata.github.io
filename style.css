@@ -1,0 +1,19 @@
+
+body {
+    font-family: Arial;
+    background-color: #fcc8a6;
+    text-align: center;   
+}
+h1 {
+    color: #131313;
+}
+a {
+    color: #6d3c0f;
+}
+h3 {
+    color: #202020;
+}
+
+pre {
+    font-family: Arial, Helvetica, sans-serif;
+}
