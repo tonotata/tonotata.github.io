@@ -5,15 +5,35 @@ body {
     text-align: center;   
 }
 h1 {
-    color: #131313;
+    color: #ffffff;
 }
 a {
-    color: #6d3c0f;
+    color: #e6e6e6;   
+}
+a:hover {
+    color: rgb(196, 196, 196);
 }
 h3 {
-    color: #202020;
+    color: #ffffff;
 }
 
 pre {
     font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+.container{
+    background-color: #000000;
+    background-image: radial-gradient(#ffffff 1.2000000000000002px, #000000 1.2000000000000002px);
+    background-size: 24px 24px;
+}
+hr {
+    height: 3px;
+    width: 500px;
+    background-color: #252525;
+    color: #252525;
+    padding: none;
+}
+img {
+    border-radius: 10px;
 }
